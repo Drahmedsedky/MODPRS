@@ -1,0 +1,11 @@
+Package: modeprs
+Type: Package
+Title: provide a robust penalized regression splines procedure
+Version: 0.1.0
+Author: Ahmed Sedky & Sabreen Desoky
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: provide a robust penalized regression splines procedure based on mode estimation.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
